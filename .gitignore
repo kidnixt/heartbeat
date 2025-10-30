@@ -2,6 +2,9 @@
 test
 train
 
+#no guardamos los mejores modelos .pth
+1_best_models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
