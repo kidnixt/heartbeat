@@ -4,6 +4,9 @@ train
 
 #no guardamos los mejores modelos .pth
 1_best_models
+models 
+wandb
+kidnixt-ort
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
